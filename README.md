@@ -1,2 +1,3 @@
 # Pos_Tag
-Vietnamese POS Tagging
+# Gán nhãn từ loại Tiếng Việt
+Sử dụng model CRF

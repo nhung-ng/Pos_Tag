@@ -21,5 +21,5 @@ Tags được sử dụng:
         S -  Subordinating conjunction	Giới từ
         T - Auxiliary, modal words	        Trợ từ
         V - Verb			        Động từ
-        X - Unknown			     Không xác định
+        X - Unknown			        Không xác định
         F - punctuation			 Dấu chấm câu

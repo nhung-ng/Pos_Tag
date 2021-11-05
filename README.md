@@ -10,11 +10,11 @@ Tags được sử dụng:
         E - Preposition			Đại từ xưng hô
         I - Interjection			Thán từ
         L - Determiner			Người/Tên riêng
-        M - Numeral			    Số
-        N - Common noun		  Danh từ chung
+        M - Numeral			        Số
+        N - Common noun		      Danh từ chung
         Nc - Noun Classifier		Danh từ loại thể
         Ny - Noun abbreviation		Viết tắt
-        Np - Proper noun		  Danh từ riêng
+        Np - Proper noun		    Danh từ riêng
         Nu - Unit noun			  Danh từ đơn
         P - Pronoun			  Đại từ
         R - Adverb			Trạng từ

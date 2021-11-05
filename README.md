@@ -15,11 +15,11 @@ Tags được sử dụng:
         Nc - Noun Classifier		Danh từ loại thể
         Ny - Noun abbreviation		Viết tắt
         Np - Proper noun		        Danh từ riêng
-        Nu - Unit noun			  Danh từ đơn
+        Nu - Unit noun			Danh từ đơn
         P - Pronoun			        Đại từ
         R - Adverb			        Trạng từ
         S -  Subordinating conjunction	Giới từ
         T - Auxiliary, modal words	        Trợ từ
         V - Verb			        Động từ
-        X - Unknown			      Không xác định
+        X - Unknown			     Không xác định
         F - punctuation			 Dấu chấm câu

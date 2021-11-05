@@ -22,4 +22,4 @@ Tags được sử dụng:
         T - Auxiliary, modal words	        Trợ từ
         V - Verb			        Động từ
         X - Unknown			        Không xác định
-        F - punctuation			 Dấu chấm câu
+        F - punctuation			Dấu chấm câu
